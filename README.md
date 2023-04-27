@@ -18,7 +18,7 @@ The code consists of three files:
 ## Instructions
 
 To reproduce our study:
-1. Retrieve the tweets: 
+1. Retrieve the tweets. To do this, you will need Twitter API keys. Once you have those, you can use the [twarc library](https://twarc-project.readthedocs.io/en/latest/) as follows:
 ```
 twarc hydrate data/LANG.txt > LANG.jsonl
 ```
