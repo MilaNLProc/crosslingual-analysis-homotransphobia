@@ -48,3 +48,22 @@ The results of the analysis will be stored in the `results` folder. There will b
 - `LANG_topics.txt` - contains the results of the topic modeling analysis with the top words for 5, 10, 15, 20 topics
 - `LANG_topics.csv` - contains the results of the topic modeling analysis with each tweet assigned to a topic
 - `LANG_sentiment.csv` - contains the results of the sentiment analysis with each tweet assigned to a sentiment class
+
+
+## Reference
+
+If you use the data or code please cite the following paper:
+
+    @inproceedings{locatelli-etal-2023-cross,
+    title = "A Cross-Lingual Study of Homotransphobia on {T}witter",
+    author = "Locatelli, Davide  and
+      Damo, Greta  and
+      Nozza, Debora",
+    booktitle = "Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP)",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.c3nlp-1.3",
+    pages = "16--24",
+    }
