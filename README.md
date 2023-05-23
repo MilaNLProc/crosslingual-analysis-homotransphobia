@@ -1,6 +1,6 @@
 # A Cross-Lingual Study of Homotransphobia on Twitter
 
-[Davide Locatelli](http://davidelct.com) · [Greta Damo](https://milanlproc.github.io/authors/greta_damo/) · [Debora Nozza](http://dnozza.github.io/)
+[Davide Locatelli](http://davidelct.com) · [Greta Damo](https://milanlproc.github.io/authors/greta_damo/) · [Debora Nozza](https://deboranozza.com/)
 
 This repository contains data and code used in the paper "A Crosslingual Analysis of Homotransphobia on Twitter" (C3NLP Workshop @ EACL23).
 
