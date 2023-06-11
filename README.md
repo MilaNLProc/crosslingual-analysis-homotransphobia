@@ -2,7 +2,7 @@
 
 [Davide Locatelli](http://davidelct.com) · [Greta Damo](https://milanlproc.github.io/authors/greta_damo/) · [Debora Nozza](https://deboranozza.com/)
 
-This repository contains data and code used in the paper "A Crosslingual Analysis of Homotransphobia on Twitter" (C3NLP Workshop @ EACL23).
+This repository contains data and code used in the paper [A Crosslingual Analysis of Homotransphobia on Twitter](https://aclanthology.org/2023.c3nlp-1.3/).
 
 ## Data
 
@@ -66,4 +66,5 @@ If you use the data or code please cite the following paper:
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.c3nlp-1.3",
     pages = "16--24",
-    }
+    abstract = "We present a cross-lingual study of homotransphobia on Twitter, examining the prevalence and forms of homotransphobic content in tweets related to LGBT issues in seven languages. Our findings reveal that homotransphobia is a global problem that takes on distinct cultural expressions, influenced by factors such as misinformation, cultural prejudices, and religious beliefs. To aid the detection of hate speech, we also devise a taxonomy that classifies public discourse around LGBT issues. By contributing to the growing body of research on online hate speech, our study provides valuable insights for creating effective strategies to combat homotransphobia on social media.",
+
